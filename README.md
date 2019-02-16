@@ -1,2 +1,2 @@
 # Legacy
-Uncommon Hacks - Legacy application *Rebuilding connections* :sparkles
+Uncommon Hacks - Legacy application *Rebuilding connections* :sparkles:
